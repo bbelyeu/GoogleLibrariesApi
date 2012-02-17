@@ -1,0 +1,19 @@
+{
+    "name": "bbelyeu/GoogleLibrariesApi",
+    "type": "plugin",
+    "description": "CakePhp Plugin for Google Libraries Api",
+    "keywords": ["cakephp","google"],
+    "homepage": "https://github.com/bbelyeu/GoogleLibrariesApi",
+    "version": "1.0.0",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Brad Belyeu",
+            "email": "bradleylamar@gmail.com",
+            "homepage": "http://www.brandrea.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
