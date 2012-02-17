@@ -4,7 +4,7 @@
     "description": "CakePhp Plugin for Google Libraries Api",
     "keywords": ["cakephp","google"],
     "homepage": "https://github.com/bbelyeu/GoogleLibrariesApi",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "GPL",
     "authors": [
         {
