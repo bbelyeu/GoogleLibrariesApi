@@ -2,7 +2,7 @@
     "name": "bbelyeu/GoogleLibrariesApi",
     "type": "plugin",
     "description": "CakePhp Plugin for Google Libraries Api",
-    "keywords": ["cakephp","google"],
+    "keywords": ["cakephp","google","api"],
     "homepage": "https://github.com/bbelyeu/GoogleLibrariesApi",
     "license": "GPL",
     "authors": [
